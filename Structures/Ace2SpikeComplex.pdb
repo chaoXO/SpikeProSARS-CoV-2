@@ -18,7 +18,7 @@ SOURCE    MOL_ID: 1;
 SOURCE   2 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
 SOURCE   3 ORGANISM_COMMON: HUMAN;                                              
 SOURCE   4 ORGANISM_TAXID: 9606;                                                
-SOURCE   5 GENE: ACE2, UNQ868/PRO1885;                                          
+SOURCE   5 GENE: ACE2, UNQ868/PRO1885;                                 .         
 SOURCE   6 EXPRESSION_SYSTEM: TRICHOPLUSIA NI;                                  
 SOURCE   7 EXPRESSION_SYSTEM_TAXID: 7111;                                       
 SOURCE   8 MOL_ID: 2;                                                           
